@@ -70,7 +70,7 @@ You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
 
-<details><summary>Deploy To Heroku</summary>
+<details><summary>Deploy To Heroku</summary?template=https://github.com/nigiltb/autofilterv3)</br>
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/tree/main">
